@@ -81,3 +81,24 @@ Courses:
 - [Stanford course at coursera](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms#syllabus).
 ---
 ---
+
+
+## Intermediate Level
+
+In this level we'll be able to interface with microcontrollers starting with AVR.
+
+- [Digital Design](#digital-design)
+- [Elctronics](#electronics)
+- [C Building process](#C-Building-process)
+- [MCU Architecture](#mcu-architecture)
+- [MCU interfacing](#mcu-interfacing)
+- [Embedded Software Design](#embedded-software-design) 
+
+----
+----
+## Advanced Level
+- [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](#ARM-processor)
+- [Definitive Guide to ARM Cortex](#guide-to-arm)
+- [Mastering Microcontroller and Embedded Driver Development](#mastring-microcontroller)
+- [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](#programming-on-arm)
+- [DIY RTOS Made Easy: Mastering Microcontrollers](#rtos)
