@@ -24,4 +24,10 @@ In this level we're focusing in building a strong and stable base.
 
 
 ## Basic C Programming
-![What is The C Programming Language_ A Tutorial for Beginners (1)](https://user-images.githubusercontent.com/82379828/199721371-fd5ccd38-1b7c-4ef9-88fc-7c490c37f948.png)
+
+
+
+|[NesoAcademy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | powerful & free course     |
+| :---------------------------------------------  | :------------------------- |
+| [Microcontroller Embedded C](https://www.udemy.com/course/microcontroller-embedded-c-programming/)   | powerful & paid course |
+
