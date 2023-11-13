@@ -23,7 +23,7 @@ In this level we're focusing in building a strong and stable base.
 
 
 ## **🟫C Programming** 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="1200" height="500">
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="200" height="100"></p>
 
  You can choose any of these three 
 |[NesoAcademy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | powerful & free course     |
