@@ -54,7 +54,7 @@ Beside these matierial, it is recommended to read the chapter(s) of each topic f
 
 ##
 ## **🟫Introduction to Git and GitHub**
-<p align="left"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" width="200" height="100"></p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200" height="100"></p>
 
  First,what is the difference between Git and GitHub?  - [see this](https://devmountain.com/blog/git-vs-github-whats-the-difference/)
 You can learn about them from these resources:
