@@ -5,7 +5,7 @@ An embedded system is a specialized computer system designed to perform dedicate
 
 
 
-# **🟫Levels**
+# **🔲Levels**
 
 - [Beginner Level](#BeginnerLevel)
 - [Intermediate Level](#IntermediateLevel)
@@ -43,7 +43,7 @@ In this level we're focusing in building a strong and stable base.
 
 ##
 
-**Note :**
+**🔴Note :**
 Beside these matierial, it is recommended to read the chapter(s) of each topic from [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
 
 
@@ -92,7 +92,7 @@ Here, we will learn about `asymptotic analysis` `Divide-and-conquer basics` `Sea
 - Week 16 | [Searching Algorithm](https://www.youtube.com/watch?v=j5uXyPJ0Pew&list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
 Another recommended course [Stanford course at coursera](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms#syllabus).
 
-**Note :**
+**🔴Note :**
 Beside these matierial, it is recommended to read the chapter(s) of each topic from [Grokking Algorithms Book](https://drive.google.com/file/d/1TIToCrGpf5FPk3Njxo6yjbxg727IASX6/view?usp=sharing)
 
 
