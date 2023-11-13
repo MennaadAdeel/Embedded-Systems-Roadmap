@@ -61,6 +61,8 @@ You can learn about them from these resources:
 - [The most common commands in git.](https://docs.google.com/document/d/e/2PACX-1vRsH5CE2ty2BzWys6bsTfJ8sYDrNg0yBy8rrVU2jWhr3QbJ1YHdXgPwZbAuf04hz-YSrjIbBkjIPABx/pub)
 - [Pro Git](https://drive.google.com/file/d/13h9CWcrnBwbLKcRTr4-ypcy0rawzbvYY/view?usp=sharing)
 
+**🔴Note :**
+Beside these matierial, it is recommended to read the chapter(s) of each topic from [Pro Git](https://drive.google.com/file/d/13h9CWcrnBwbLKcRTr4-ypcy0rawzbvYY/view?usp=sharing)
 
 ## 🟫Data Structure
 Here, we will learn the basic data structures  `stacks`, `queues`, `lists`, `trees` and how to impelement them in C.
@@ -80,7 +82,9 @@ Course:
      - [Queue](https://www.geeksforgeeks.org/queue-data-structure/)
      - [Hash Table](https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm)
 
-
+**🔴Note :**
+Beside these matierial, it is recommended to read the chapter(s) of each topic from [Data Structure and Program Design in C](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4) 
+ 
 
          
 ## 🟫Algorithm 
@@ -119,7 +123,7 @@ In this level we'll be able to interface with microcontrollers starting with AVR
   ## 🟪Digital Design
 
    before this level you should have a good knowledge with digital design and this course will meet the our wants
-  - [FCIH OCW]((https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw))
+  - [FCIH OCW](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw)
 
 
   ## 🟪Elctronics
@@ -155,6 +159,8 @@ In this level we'll be able to interface with microcontrollers starting with AVR
      - Week 12 | Final project
 
 
+**🔴Note :**
+Beside these matierial, it is recommended to read the chapter(s) of each topic from [AVR MAZIDI](https://drive.google.com/file/d/1cs9Ege67z89aa7BaEmdAnm4dOVoHqiid/view?usp=sharing)
 
 ----
 
@@ -188,6 +194,8 @@ In this level we'll be able to interface with microcontrollers starting with AVR
   - Week 19 | RTC - PWM
   - Week 20 | Low Power Embedded System
 
+**🔴Note :**
+Beside these matierial, it is recommended to read the chapter(s) of each topic from [Definitive Guide to ARM Cortex ](https://drive.google.com/file/d/1ZFaCwmt5XWJc8XiIdeZFbBmU0jystiVd/view?usp=sharing)(Chapters 1, 4-7)
 ---
   ## 🟦Another ARM Resources
 ### Embedded Systems Programming on ARM Cortex-M3/M4 Processor
