@@ -22,7 +22,8 @@ In this level we're focusing in building a strong and stable base.
 - [Projects](#projects)
 
 
-## **🟫C Programming**
+## **🟫C Programming** 
+![mg](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg )
 
 
  You can choose any of these three 
@@ -54,6 +55,7 @@ Beside these matierial, it is recommended to read the chapter(s) of each topic f
 
 ##
 ## **🟫Introduction to Git and GitHub**
+![img](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
  First,what is the difference between Git and GitHub?  - [see this](https://devmountain.com/blog/git-vs-github-whats-the-difference/)
 You can learn about them from these resources:
