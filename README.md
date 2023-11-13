@@ -190,9 +190,13 @@ In this level we'll be able to interface with microcontrollers starting with AVR
 
 ---
   ## Another ARM Resources
-
-  - [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](#ARM-processor)
-  - [Definitive Guide to ARM Cortex](#guide-to-arm)
-  - [Mastering Microcontroller and Embedded Driver Development](#mastring-microcontroller)
-  - [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](#programming-on-arm)
-  - [DIY RTOS Made Easy: Mastering Microcontrollers](#rtos)
+### Embedded Systems Programming on ARM Cortex-M3/M4 Processor
+  - [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](https://www.udemy.com/course/embedded-system-programming-on-arm-cortex-m3m4/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https%3A%2F%2Fwww.udemy.com%2F&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-PWoYcyOYAyXaYXGjuAJSGw&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads)
+  - [Definitive Guide to ARM Cortex ](https://drive.google.com/file/d/1ZFaCwmt5XWJc8XiIdeZFbBmU0jystiVd/view?usp=sharing)(Chapters 1, 4-7)
+### Mastering Microcontroller and Embedded Driver Development  
+   - [Mastering Microcontroller and Embedded Driver Development](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https%3A%2F%2Fwww.udemy.com%2F&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-EVU5BQ8ssnr4_csYvFyQzQ&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads) 
+### Mastering Microcontroller:Timers,PWM,CAN ,  Low Power(MCU2) .
+  - [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](https://www.udemy.com/course/microcontroller-programming-stm32-timers-pwm-can-bus-protocol/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https%3A%2F%2Fwww.udemy.com%2F&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-e2LcQBbdBuLVWuNk2_Ij1w&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads)
+### Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging.
+  - ["DIY RTOS Made Easy: Mastering Microcontrollers"](https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https%3A%2F%2Fwww.udemy.com%2F&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-VtoJNgAz23urBEor5hzarw&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads)
+ ---
