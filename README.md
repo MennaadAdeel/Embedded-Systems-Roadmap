@@ -23,8 +23,7 @@ In this level we're focusing in building a strong and stable base.
 
 
 ## **🟫C Programming** 
-![mg](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg )
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="1200" height="500">
 
  You can choose any of these three 
 |[NesoAcademy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | powerful & free course     |
@@ -169,10 +168,10 @@ Beside these matierial, it is recommended to read the chapter(s) of each topic f
 ----
 # **🟦Advanced Level**
 
-- FreeARTOS
-- ARM Microcontroller
+- [FreeARTOS](##FreeARTOS)
+- [ARM Microcontroller](##ARM-Microcontroller)
   
-  ## FreeARTOS
+  ## 🟦FreeARTOS
   - Week 1 | [Intro to RTOS with Eng/ Ahmed Maged](https://www.youtube.com/playlist?list=PLEPINOrvANGfzN1XxxIsaJQDfjQKGE7bU)
   - Week 2 | [RTOS terminologies]()
   - Week 3 | [Inter Task Communication and Task Synchronization]()
