@@ -1,5 +1,5 @@
 
-# ***Embedded-Systems-Roadmap 🤖***
+# ***Embedded-Systems-Roadmap***
 
 An embedded system is a specialized computer system designed to perform dedicated functions or tasks within a larger system. Unlike general-purpose computers, such as laptops or desktops, embedded systems are typically built to execute specific functions with a focus on efficiency, reliability, and often in real-time. And in this Roadmap you'll be able to be an embedded systems engineer.
 
