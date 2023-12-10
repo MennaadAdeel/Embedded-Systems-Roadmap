@@ -124,7 +124,7 @@ In this level we'll be able to interface with microcontrollers starting with AVR
   ## 🟪Digital Design
 
    before this level you should have a good knowledge with digital design and this course will meet the our wants
-  - [FCIH OCW](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw)
+  - [Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&si=urO34c44rbM0qUgh)
 
 
   ## 🟪Elctronics
